@@ -8,7 +8,7 @@ Viagem Fácil
 
 ## 2. Link do Repositório
 
-[https://github.com/anderlacerda/viagem-fácil](https://github.com/anderlacerda/viagem-fácil)
+[https://github.com/devspidersilva/viagem_facil](https://github.com/devspidersilva/viagem_facil)
 
 ## 3. Linguagem de Programação
 
