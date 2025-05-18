@@ -6,9 +6,9 @@
 
 Viagem Fácil
 
-## 2. Link do Repositório
+## 2. Link do Colab
 
-[https://github.com/devspidersilva/viagem_facil](https://github.com/devspidersilva/viagem_facil)
+[https://colab.research.google.com/drive/1avlbNE\_79AOH3N9E1kvTsmddWIb4YkcY?usp=sharing](https://colab.research.google.com/drive/1avlbNE_79AOH3N9E1kvTsmddWIb4YkcY?usp=sharing)
 
 ## 3. Linguagem de Programação
 
